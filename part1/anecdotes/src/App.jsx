@@ -34,6 +34,7 @@ const App = () => {
 				maxIndex = i;
 			}
 		}
+		
 		return maxIndex;
   }
 
@@ -59,3 +60,4 @@ const App = () => {
 }
 
 export default App;
+
